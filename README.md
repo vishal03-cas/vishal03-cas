@@ -64,8 +64,6 @@ I'm a passionate and curious **Data Scientist** who explores multivariate ideas 
 
 ---
 
-Let's collaborate, share ideas, or just chat about data science!
-
 *"Keep learning. Keep building. Stay curious."*
 
 ---
