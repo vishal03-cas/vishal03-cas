@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal Solanki! 👋
 
-I'm a passionate and curious **Data Scientist** who explores multivariate ideas across **AI, ML, and Data Science**. I love to turn messy data into meaningful insights and smart predictions.
+I'm a passionate and curious **Data Scientist** who explores multivariate ideas across **ML, and Data Science**. I love to turn messy data into meaningful insights and smart predictions.
 
 ---
 
@@ -27,7 +27,7 @@ I'm a passionate and curious **Data Scientist** who explores multivariate ideas 
 * **Visualization:** Power BI, Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn, MLflow, NumPy, Pandas
 * **Deep Learning:** TensorFlow, Keras
-* **Other Tools:** Advanced Excel, Git, Jupyter Notebooks
+* **Other Tools:** Advanced Excel, Git, Jupyter Notebooks, VSCode
 
 ---
 
@@ -37,7 +37,6 @@ I'm a passionate and curious **Data Scientist** who explores multivariate ideas 
 * 🎡 Data Dashboards (Power BI)
 * 📊 Real-world Case Studies
 * 📦 End-to-End ML Projects
-* 🤖 AI-based Solutions with Scalable Code
 
 ---
 
