@@ -7,7 +7,7 @@ I'm a passionate and curious **Data Scientist** who explores multivariate ideas 
 ## 🌟 About Me
 
 * 🚀 Self-driven data enthusiast focused on **problem solving** and **business impact**
-* 🤖 Intermediate skills in **Python, SQL, MongoDB, and Power BI**
+* 🤖 Intermediate skills in **Python, SQL, ML, and Power BI**
 * 📊 Experience with **machine learning**, **deep learning**, and **data visualization**
 * 📖 Always learning new things in AI, ML Ops, and cloud-based tools
 
